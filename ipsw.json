@@ -1,12 +1,12 @@
 {
-    "version": "3.1.218",
+    "version": "3.1.219",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.218/ipsw_3.1.218_windows_x86_64.tar.gz",
+            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.219/ipsw_3.1.219_windows_x86_64.tar.gz",
             "bin": [
-                "ipsw_3.1.218_windows_x86_64/ipsw.exe"
+                "ipsw_3.1.219_windows_x86_64/ipsw.exe"
             ],
-            "hash": "2224a15c76564620e87a8de85215f2269fe676e25d784ea9fa79d10ab7d0579b"
+            "hash": "0441e93a11a6cb221b7d2d7a0d10f83700cb11755d7d94d1513b56faa80ccc93"
         }
     },
     "homepage": "https://blacktop.github.io/ipsw",
