@@ -1,12 +1,12 @@
 {
-    "version": "3.1.334",
+    "version": "3.1.335",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.334/ipswd_3.1.334_windows_x86_64.tar.gz",
+            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.335/ipswd_3.1.335_windows_x86_64.tar.gz",
             "bin": [
-                "ipswd_3.1.334_windows_x86_64/ipswd.exe"
+                "ipswd_3.1.335_windows_x86_64/ipswd.exe"
             ],
-            "hash": "42fd0144a6774b3b330d56b87969392a9507bd0f2dec33fba173f178f8c126d7"
+            "hash": "137f674ec4745a1c2707838bcdad54c628841650d0f404b533d9961856e6ef27"
         }
     },
     "homepage": "https://blacktop.github.io/ipsw",
