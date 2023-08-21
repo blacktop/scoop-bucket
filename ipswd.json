@@ -1,26 +1,26 @@
 {
-    "version": "3.1.378",
+    "version": "3.1.379",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.378/ipswd_3.1.378_windows_i386.zip",
+            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.379/ipswd_3.1.379_windows_i386.zip",
             "bin": [
-                "ipswd_3.1.378_windows_i386/ipswd.exe"
+                "ipswd_3.1.379_windows_i386/ipswd.exe"
             ],
-            "hash": "6c0aafb90a8f63a36061a19ad20c4bfa292db9ed309dda7fb00d42638869b110"
+            "hash": "a402638fcc2412ccb1b1474a7148a8c5a45f9f812ac9e5187508424e8025b2a0"
         },
         "64bit": {
-            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.378/ipswd_3.1.378_windows_x86_64.zip",
+            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.379/ipswd_3.1.379_windows_x86_64.zip",
             "bin": [
-                "ipswd_3.1.378_windows_x86_64/ipswd.exe"
+                "ipswd_3.1.379_windows_x86_64/ipswd.exe"
             ],
-            "hash": "afd33a6662eaab565172046e08ebd9e1832c4f973b29c0dd3640baf7996d2f25"
+            "hash": "48bc9deaec04f4996bb1030b94079dbcdb2b2f575d95068bb576cd7725b5902d"
         },
         "arm64": {
-            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.378/ipswd_3.1.378_windows_arm64.zip",
+            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.379/ipswd_3.1.379_windows_arm64.zip",
             "bin": [
-                "ipswd_3.1.378_windows_arm64/ipswd.exe"
+                "ipswd_3.1.379_windows_arm64/ipswd.exe"
             ],
-            "hash": "dfecb2c38964308277364767ca6897cc33ff715e78d0aac2f4e60f90000c23d3"
+            "hash": "893365c0c15716b4d334d9144cb26f97253c59efec98013b422d6b903d7131cd"
         }
     },
     "homepage": "https://blacktop.github.io/ipsw",
