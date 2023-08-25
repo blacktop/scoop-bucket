@@ -6,21 +6,21 @@
             "bin": [
                 "ipsw_3.1.381_windows_i386/ipsw.exe"
             ],
-            "hash": "256695e85ffd1947001657cb05bcf6104d45d088fd6d689df27b48ebc5216b05"
+            "hash": "11d205851a54a3578088d4b65800295f030273bbd2769515375c0b0bbe87830d"
         },
         "64bit": {
             "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.381/ipsw_3.1.381_windows_x86_64.zip",
             "bin": [
                 "ipsw_3.1.381_windows_x86_64/ipsw.exe"
             ],
-            "hash": "b28bd9f77be994d8c80f9966afe3075674854f85e44a46a8ee81c0b0c51593ab"
+            "hash": "5f059bde47df216d2ac88dfb7606496c3ff53f377a34ced4e85b01615ab129ba"
         },
         "arm64": {
             "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.381/ipsw_3.1.381_windows_arm64.zip",
             "bin": [
                 "ipsw_3.1.381_windows_arm64/ipsw.exe"
             ],
-            "hash": "568e0c34af937e31616c55f970ac902146061ddf23bfe14cd81b50cdf1f9ddce"
+            "hash": "7301291b5a9ac99e138ec6aabd96ba54137e0625c43944c843e86d9670c00ed7"
         }
     },
     "homepage": "https://blacktop.github.io/ipsw",
