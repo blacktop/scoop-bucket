@@ -6,14 +6,14 @@
             "bin": [
                 "ipswd.exe"
             ],
-            "hash": "2b13763ad1402a774728fb7f79a107c4a61e33ce62663108d831dfa5c44a2ffb"
+            "hash": "8e69b2348910399a73e5ac9fe9fa1c4bd70d6e5f7121ebebf73c2350d1ae3d7f"
         },
         "arm64": {
             "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.459/ipswd_3.1.459_windows_arm64.zip",
             "bin": [
                 "ipswd.exe"
             ],
-            "hash": "b5c210e289eb0d74da4bfb13ff6f80e4e7dd9661f849473a19965ba207368a5f"
+            "hash": "e6f7c442cb90b27052d7b7f7cfbd402b111802890ecb8bcd518818483e5a40be"
         }
     },
     "homepage": "https://blacktop.github.io/ipsw",
