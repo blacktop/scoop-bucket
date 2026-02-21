@@ -1,19 +1,19 @@
 {
-    "version": "3.1.653",
+    "version": "3.1.654",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.653/ipswd_3.1.653_windows_x86_64.zip",
+            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.654/ipswd_3.1.654_windows_x86_64.zip",
             "bin": [
                 "ipswd.exe"
             ],
-            "hash": "268bab58be6c5be91bb88c9140972ad5a5db58f1765ebdc05a4178351670e247"
+            "hash": "9168761912798286d392a78fe8b3ffdc82025a466e62290bf3f42ec8c0d62b7b"
         },
         "arm64": {
-            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.653/ipswd_3.1.653_windows_arm64.zip",
+            "url": "https://github.com/blacktop/ipsw/releases/download/v3.1.654/ipswd_3.1.654_windows_arm64.zip",
             "bin": [
                 "ipswd.exe"
             ],
-            "hash": "e479c4e414e003ad36b4ebfab9596f2028d96c4fb5c071d08896b6e66a538141"
+            "hash": "57d78b487291b8856f6112f2e2acb84c3bda4f01b50584d930dfe577dceb50a8"
         }
     },
     "homepage": "https://blacktop.github.io/ipsw",
