@@ -1,12 +1,12 @@
 {
-  "version": "9.3.12",
+  "version": "9.3.13",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/blacktop/ida-mcp-rs/releases/download/v9.3.12/ida-mcp_9.3.12_Windows_x86_64.zip",
+      "url": "https://github.com/blacktop/ida-mcp-rs/releases/download/v9.3.13/ida-mcp_9.3.13_Windows_x86_64.zip",
       "bin": [
         "ida-mcp.exe"
       ],
-      "hash": "9d169b6a21d4dbcf75e3dbf04b1a142d1b1d7d53812f7f4d4f959fca047a0f97"
+      "hash": "2e4a9a46aadbdc41b12dae1367f9bb73b19ecddfc30e824471a948903fb7f26c"
     }
   },
   "homepage": "https://github.com/blacktop/ida-mcp-rs",
