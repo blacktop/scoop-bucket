@@ -1,19 +1,19 @@
 {
-    "version": "1.0.31",
+    "version": "1.0.32",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/blacktop/go-apfs/releases/download/v1.0.31/go-apfs_1.0.31_windows_x86_64.zip",
+            "url": "https://github.com/blacktop/go-apfs/releases/download/v1.0.32/go-apfs_1.0.32_windows_x86_64.zip",
             "bin": [
                 "apfs.exe"
             ],
-            "hash": "94642e4c65b64ce71a7ffb573ac3714d2972f57b7971be429044ec84775f0984"
+            "hash": "4165c8e3aba5f394b1e3237df1f45980d8613597ec7ac837cfbf8094d52047c5"
         },
         "arm64": {
-            "url": "https://github.com/blacktop/go-apfs/releases/download/v1.0.31/go-apfs_1.0.31_windows_arm64.zip",
+            "url": "https://github.com/blacktop/go-apfs/releases/download/v1.0.32/go-apfs_1.0.32_windows_arm64.zip",
             "bin": [
                 "apfs.exe"
             ],
-            "hash": "3f37ccc6cd94c7167afdd818b9ff54961b47756815fd057a36f019a410d4dc72"
+            "hash": "fcf5b57c0ee2270c619e7c60a63325a9a81e9195b6750ff46252fd6d34d47894"
         }
     },
     "homepage": "https://github.com/blacktop/go-apfs",
